@@ -1,0 +1,9 @@
+
+.vscode/launch.json
+core.api/.vs/core.api/config/applicationhost.config
+/.vscode/launch.json
+/core.api/core.api/bin/Debug/net8.0
+/core.api/core.api/obj
+/core.api/.vs
+/core.api/core.repositories/obj
+/core.api/core.services/obj
